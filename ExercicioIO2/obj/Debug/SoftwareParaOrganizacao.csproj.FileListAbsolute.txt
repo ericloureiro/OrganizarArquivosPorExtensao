@@ -1,0 +1,6 @@
+C:\Users\eric.loureiro\Downloads\ExercicioIO2\ExercicioIO2\bin\Debug\SoftwareParaOrganizacao.exe.config
+C:\Users\eric.loureiro\Downloads\ExercicioIO2\ExercicioIO2\bin\Debug\SoftwareParaOrganizacao.exe
+C:\Users\eric.loureiro\Downloads\ExercicioIO2\ExercicioIO2\bin\Debug\SoftwareParaOrganizacao.pdb
+C:\Users\eric.loureiro\Downloads\ExercicioIO2\ExercicioIO2\obj\Debug\SoftwareParaOrganizacao.csprojResolveAssemblyReference.cache
+C:\Users\eric.loureiro\Downloads\ExercicioIO2\ExercicioIO2\obj\Debug\SoftwareParaOrganizacao.exe
+C:\Users\eric.loureiro\Downloads\ExercicioIO2\ExercicioIO2\obj\Debug\SoftwareParaOrganizacao.pdb

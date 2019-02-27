@@ -1,0 +1,9 @@
+C:\Users\eric.loureiro\Desktop\ExercicioIO2\ExercicioIO2\bin\Debug\ExercicioIO2.exe.config
+C:\Users\eric.loureiro\Desktop\ExercicioIO2\ExercicioIO2\obj\Debug\ExercicioIO2.csprojResolveAssemblyReference.cache
+C:\Users\eric.loureiro\Desktop\ExercicioIO2\ExercicioIO2\bin\Debug\ExercicioIO2.exe
+C:\Users\eric.loureiro\Desktop\ExercicioIO2\ExercicioIO2\bin\Debug\ExercicioIO2.pdb
+C:\Users\eric.loureiro\Desktop\ExercicioIO2\ExercicioIO2\obj\Debug\ExercicioIO2.exe
+C:\Users\eric.loureiro\Desktop\ExercicioIO2\ExercicioIO2\obj\Debug\ExercicioIO2.pdb
+C:\Users\eric.loureiro\Downloads\ExercicioIO2\ExercicioIO2\bin\Debug\ExercicioIO2.exe.config
+C:\Users\eric.loureiro\Downloads\ExercicioIO2\ExercicioIO2\obj\Debug\ExercicioIO2.exe
+C:\Users\eric.loureiro\Downloads\ExercicioIO2\ExercicioIO2\obj\Debug\ExercicioIO2.pdb
